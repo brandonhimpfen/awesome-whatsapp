@@ -60,6 +60,7 @@ Developer tools and APIs for integrating WhatsApp into applications.
 - [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) — Node.js client library for WhatsApp Web.
 - [OpenWA](https://github.com/open-wa/wa-automate-nodejs) — WhatsApp automation framework for Node.js.
 - [Venom Bot](https://github.com/orkestral/venom) — WhatsApp automation framework.
+- [WhatsUsernames.link API](https://whatsusernames.link/developers) — Free, keyless REST API for WhatsApp username/phone links, QR codes, and Business Platform BSUID tools.
 
 ## Chatbots & Automation
 
