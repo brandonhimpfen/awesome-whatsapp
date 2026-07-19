@@ -68,6 +68,7 @@ Platforms and tools for creating automated WhatsApp experiences.
 - [Botpress](https://botpress.com/) — Conversational AI platform with WhatsApp integrations.
 - [Rasa](https://rasa.com/) — Open-source conversational AI framework.
 - [ManyChat](https://manychat.com/) — Marketing automation platform supporting WhatsApp.
+- [Okidoki Chat](https://okidoki.chat) — AI chat widget that qualifies website visitors and books meetings via text, voice, video, or WhatsApp.
 - [Landbot](https://landbot.io/) — No-code chatbot builder.
 - [Flow XO](https://flowxo.com/) — Chatbot and workflow automation platform.
 - [Zapier](https://zapier.com/) — Workflow automation platform supporting WhatsApp integrations.
