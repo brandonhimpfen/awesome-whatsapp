@@ -131,6 +131,7 @@ Documentation, tutorials, guides, and educational materials.
 - [360dialog Documentation](https://docs.360dialog.com/) — API guides and implementation resources.
 - [Botpress Academy](https://botpress.com/academy) — Conversational AI training resources.
 - [Rasa Learning Center](https://learning.rasa.com/) — Educational content for conversational AI.
+- [How to Auto-Reply on WhatsApp](https://jhalmuri.ai/how-to-auto-reply-on-whatsapp) — Step-by-step guide to greeting, away and quick-reply messages in the WhatsApp Business app.
 
 ## Communities
 
